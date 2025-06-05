@@ -10,6 +10,7 @@ import torch
 import torch.nn as nn
 from einops import repeat
 
+print("WOAHHHHH")
 
 class HELPER_TOKEN(IntEnum):
     PAD = 0
